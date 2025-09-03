@@ -3,7 +3,7 @@
 Bem-vindo(a) ao **Bora de Go!**, um blog criado para compartilhar minha jornada de aprendizado com a linguagem Go — desde os fundamentos até práticas avançadas em arquitetura de microsserviços, integração com AWS, SQS, e muito mais.
 
 Este repositório hospeda o conteúdo publicado via GitHub Pages:  
-🔗 **[greicy-santos-dev.github.io](https://greicy-santos-dev.github.io)**
+🔗 **[greicy-santos-dev.github.io](https://greicy-santos-dev.github.io/boradego/)**
 
 ---
 
